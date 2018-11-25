@@ -13,8 +13,7 @@ Most of these can be installed using the basic Anaconda installation.
 
 b) Install the nltk data
 
-There is the option to uncomment the line:
- # nltk.download()
+There is the option to uncomment the line # nltk.download()
 
 A window will open to ask what nltk data you want to download.
 
